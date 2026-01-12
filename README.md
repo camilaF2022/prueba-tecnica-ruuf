@@ -54,6 +54,9 @@ Este procedimiento se evalúa considerando ambas orientaciones tanto en horizont
 
 ## Link al video
 
+https://www.youtube.com/watch?v=zj7lK-p-BgI
+https://www.youtube.com/watch?si=PIyGaHWCDb2pk0bI&v=fk33UwFHP7U&feature=youtu.be
+
 
 ## Ejecución del código
 
